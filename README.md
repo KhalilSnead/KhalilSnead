@@ -2,6 +2,9 @@
 
 I’m passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management and threat detection to offensive security and penetration testing, I enjoy diving deep into the ever-evolving cybersecurity landscape. These projects allow me to continuously sharpen my skills, simulate real-world attacks, and strengthen defensive strategies.
 
+## ☁️🔐 Cloud Security Projects
+
+- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/KhalilSnead/Cloud-SOC)**
 
 ## ⚠️ Vulnerability Management Projects
 
