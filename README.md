@@ -5,16 +5,6 @@ I’m passionate about cybersecurity and love tackling complex challenges throug
 ## ☁️🔐 Cloud Security Projects
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/KhalilSnead/Cloud-SOC)**
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/KhalilSnead/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
  
 <hr/>
 
