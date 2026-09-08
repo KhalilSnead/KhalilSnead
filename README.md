@@ -5,6 +5,11 @@ I’m passionate about cybersecurity and love tackling complex challenges throug
 ## ☁️🔐 Cloud Security Projects
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/KhalilSnead/Cloud-SOC)**
+
+
+## Red Team Operations Tools 
+
+- [DigitalOcean Droplet Manager](https://github.com/KhalilSnead/digitalocean-droplet-manager)
  
 <hr/>
 
